@@ -1,6 +1,6 @@
 set(NAME MKV)
 
-set(DEVICE "CPU_MKL25Z128xxx4")
+set(DEVICE "CPU_MKV58F1xxx4")
 add_compile_definitions(	CPU_MKV58F1M0VLQ24 
 							CPU_MKV58F1M0VLQ24_cm7
 							CPU_MKV58F1xxx4
