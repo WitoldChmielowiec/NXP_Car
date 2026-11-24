@@ -18,6 +18,7 @@
 #include "HALina_adc.hpp"
 #include "HALina_switches.hpp"
 #include "HALina_buttons.hpp"
+#include <cstdint>
 
 #ifndef delay_ms
 #define delay_ms(ms) for(volatile int i = 0; i < (int)CLOCK_GetFreq(kCLOCK_CoreSysClk)/10000000*4 * 9 * (int)ms; i+=1){ asm("NOP"); }

@@ -7,6 +7,8 @@
  */
 #pragma once
 
+#include <cstdint>
+
 #include "HALina.hpp"
 #include <gsl/gsl>
 

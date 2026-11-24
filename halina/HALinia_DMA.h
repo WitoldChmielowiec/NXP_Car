@@ -1,5 +1,7 @@
 #pragma once
 
+#include <stdint.h>
+
 
 class HALina_DMA {
     inline static uint32_t usedChannels = 0;

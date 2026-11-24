@@ -10,6 +10,7 @@
 
 #include <gsl/gsl>
 #include <array>
+#include <cstdint>
 #include <cstring>
 
 class HALina_Display {

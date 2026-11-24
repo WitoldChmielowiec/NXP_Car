@@ -9,6 +9,7 @@
 #pragma once
 
 #include <gsl/gsl>
+#include <cstdint>
 
 namespace halina {
 

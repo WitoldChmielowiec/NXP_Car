@@ -8,6 +8,8 @@
 
 #pragma once
 
+#include <cstdint>
+
 #include "HALina_gpio.hpp"
 
 namespace halina{
